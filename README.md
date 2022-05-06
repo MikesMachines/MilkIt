@@ -1,9 +1,9 @@
 # MilkIt
-DIY Milker docs
+DIY Milker Initial review draft - 2022-05-06
 
-Initial review draft - 2022-05-06
 
 Guide PDF 
+
 Bill of Materials CSV
 
 
