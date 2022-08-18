@@ -1,7 +1,8 @@
-# MilkIt
+# MilkIt <p>
 
-Update to one way valves here: https://github.com/MikesMachines/MilkIt/wiki/Options-and-Improvements#one-way-valves
-
+<h3>8/18/2022 - Update to one way valves here: https://github.com/MikesMachines/MilkIt/wiki/Options-and-Improvements#one-way-valves<p></h3>
+<p>
+ <p>
 
 DIY Milker Initial review draft - 2022-05-06
 
