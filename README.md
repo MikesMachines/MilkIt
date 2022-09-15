@@ -1,5 +1,13 @@
 # MilkIt <p>
 
+<p> <h3> 9/15/2022 </h3> I'm going to start updating the doc and BOM to use a stepper motor rater than just brushed. The price of stepper motors is dropping below brushed motors at similiar torque levels. While the MilkIt alone doesn't benefit much from a stepper, the combo MilkItEffIt machine does. Changing stroke lengths, speed, and developing commplex patterns that change speed and acceration during the stroke is a lot of fun when getting machined. 
+
+If you just want to control the speed like a brushed motor, that is very simple. No programming or anything - they sell stepper motor controllers just like DC speed controllers for about $10. 
+
+The video below shows it running. It only costs about $30 more than the milker alone, so it seems like a no-brainer to me. 
+
+
+
 <p>
 <h3>8/20/2022 General video: https://youtu.be/YpqhXf61yzE
 <p>
