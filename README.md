@@ -1,5 +1,17 @@
 # MilkIt <p>
 
+<p> <h3> 3/22/2023 </h3>
+I'm working on the electronics and code stuff. I initially started putting it here:
+https://github.com/MikesMachines/MotorControl
+
+I use the same hardware and code for all my machines (oral sim, pump, thruster, etc.) so it made sense to separate it out, but the code is an embarrasing mess of timing workarounds for running Blynk and a stepper while running customized program that change speed, stroke length, etc. They aren't needed anymore, so I just need to swap it all over to using internal timers.
+
+The old code is in the temp branch here for those interested (I know, it's a mess):
+https://github.com/MikesMachines/machinecode
+
+
+<p> <h3> Powertrain assembly animation</p></h3>
+
 https://user-images.githubusercontent.com/105053125/224478225-d273079f-031c-4405-9cd1-c10610204660.mp4
 
 
